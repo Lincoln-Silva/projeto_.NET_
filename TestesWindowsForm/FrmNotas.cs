@@ -33,7 +33,7 @@ namespace TestesWindowsForm
                         connection.Open();
 
                         //Insere as informações do aluno no banco de dados
-                        InserirAluno(connection, txtNomeAluno.Text, txtNota1Sem.Text, txtNota2Sem.Text, DateTime.Now.Year);
+                        InserirAluno(connection, txtNomeAluno.Text, Convert.ToDouble(txtNota1Sem.Text.Replace('.', ',')), Convert.ToDouble(txtNota2Sem.Text.Replace('.', ',')), DateTime.Now.Year);
 
                         MessageBox.Show("Informações do aluno inseridas com sucesso.");
 
@@ -134,7 +134,7 @@ namespace TestesWindowsForm
             }
         }
 
-        static void InserirAluno(SqlConnection connection, string nome, string nota1Semestre, string nota2Semestre, int anoLancamento)
+        static void InserirAluno(SqlConnection connection, string nome, double nota1Semestre, double nota2Semestre, int anoLancamento)
         {
             string query = "INSERT INTO Alunos (Nome, Nota1Semestre, Nota2Semestre, AnoLancamento) " +
                            "VALUES (@Nome, @Nota1Semestre, @Nota2Semestre, @AnoLancamento)";
