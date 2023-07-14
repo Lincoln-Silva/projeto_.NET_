@@ -1,0 +1,11 @@
+C:\Users\Pichau\source\repos\Testes\TestesWindowsForm\bin\Debug\TestesWindowsForm.exe.config
+C:\Users\Pichau\source\repos\Testes\TestesWindowsForm\bin\Debug\TestesWindowsForm.exe
+C:\Users\Pichau\source\repos\Testes\TestesWindowsForm\bin\Debug\TestesWindowsForm.pdb
+C:\Users\Pichau\source\repos\Testes\TestesWindowsForm\obj\Debug\TestesWindowsForm.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\Testes\TestesWindowsForm\obj\Debug\TestesWindowsForm.FrmLogin.resources
+C:\Users\Pichau\source\repos\Testes\TestesWindowsForm\obj\Debug\TestesWindowsForm.Properties.Resources.resources
+C:\Users\Pichau\source\repos\Testes\TestesWindowsForm\obj\Debug\TestesWindowsForm.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\Testes\TestesWindowsForm\obj\Debug\TestesWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Testes\TestesWindowsForm\obj\Debug\TestesWindowsForm.exe
+C:\Users\Pichau\source\repos\Testes\TestesWindowsForm\obj\Debug\TestesWindowsForm.pdb
+C:\Users\Pichau\source\repos\Testes\TestesWindowsForm\obj\Debug\TestesWindowsForm.FrmNotas.resources
