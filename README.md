@@ -1,9 +1,9 @@
 
 <h1 align="center">📖Testes do desafio .NET</h1>
 
-<h2 align="center">Testes feitos utilizando Visual Studio 2019 Community e sql server, foi utilizada a linguagem C# 
+<h2 align="center">Testes feitos utilizando Visual Studio 2019 Community e sql server, foi utilizada a linguagem C# </h2>
 
-Teste 01: Exibir média do Aluno
+<p>  Teste 01: Exibir média do Aluno
 Problema: O Professor de uma escola precisa calcular a média anual dos seus
 alunos, para isso ele deseja um sistema que ele informe a nota do primeiro e do
 segundo semestre, e que esse sistema exibe qual é a média.
@@ -97,6 +97,6 @@ Teste 09: Consultar informações dos alunos que a média anual for maior que 6.
 Teste 10: Utilizar o Teste 05, e após o usuário clicar em Enviar…
 - Salvar as informações em um banco de dados
 Ou então
-- Salvar as informações em um json.
-</h2>
+- Salvar as informações em um json. </p>
+
    
